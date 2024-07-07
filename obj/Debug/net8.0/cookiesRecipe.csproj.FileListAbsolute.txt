@@ -1,0 +1,15 @@
+C:\Users\hoang\source\repos\cookiesRecipe\cookiesRecipe\bin\Debug\net8.0\cookiesRecipe.exe
+C:\Users\hoang\source\repos\cookiesRecipe\cookiesRecipe\bin\Debug\net8.0\cookiesRecipe.deps.json
+C:\Users\hoang\source\repos\cookiesRecipe\cookiesRecipe\bin\Debug\net8.0\cookiesRecipe.runtimeconfig.json
+C:\Users\hoang\source\repos\cookiesRecipe\cookiesRecipe\bin\Debug\net8.0\cookiesRecipe.dll
+C:\Users\hoang\source\repos\cookiesRecipe\cookiesRecipe\bin\Debug\net8.0\cookiesRecipe.pdb
+C:\Users\hoang\source\repos\cookiesRecipe\cookiesRecipe\obj\Debug\net8.0\cookiesRecipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\source\repos\cookiesRecipe\cookiesRecipe\obj\Debug\net8.0\cookiesRecipe.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\cookiesRecipe\cookiesRecipe\obj\Debug\net8.0\cookiesRecipe.AssemblyInfo.cs
+C:\Users\hoang\source\repos\cookiesRecipe\cookiesRecipe\obj\Debug\net8.0\cookiesRecipe.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\cookiesRecipe\cookiesRecipe\obj\Debug\net8.0\cookiesRecipe.sourcelink.json
+C:\Users\hoang\source\repos\cookiesRecipe\cookiesRecipe\obj\Debug\net8.0\cookiesRecipe.dll
+C:\Users\hoang\source\repos\cookiesRecipe\cookiesRecipe\obj\Debug\net8.0\refint\cookiesRecipe.dll
+C:\Users\hoang\source\repos\cookiesRecipe\cookiesRecipe\obj\Debug\net8.0\cookiesRecipe.pdb
+C:\Users\hoang\source\repos\cookiesRecipe\cookiesRecipe\obj\Debug\net8.0\cookiesRecipe.genruntimeconfig.cache
+C:\Users\hoang\source\repos\cookiesRecipe\cookiesRecipe\obj\Debug\net8.0\ref\cookiesRecipe.dll
